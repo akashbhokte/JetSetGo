@@ -273,6 +273,7 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     fontStyle: "italic",
     marginHorizontal: 5,
+    color: Colors.black,
   },
   flightListContainer: {
     flex: 9,
@@ -283,15 +284,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-around",
     alignItems: "center",
   },
-  input: {
-    height: 50,
-    borderWidth: 1,
-    borderColor: Colors.grey,
-    marginVertical: 10,
-    width: "40%",
-    paddingHorizontal: "3%",
-    borderRadius: 8,
-  },
+
   card: {
     backgroundColor: Colors.white,
     padding: "5%",
@@ -304,6 +297,7 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     marginHorizontal: 5,
     fontStyle: "italic",
+    color: Colors.black,
   },
   price: {
     fontWeight: "600",
@@ -322,6 +316,7 @@ const styles = StyleSheet.create({
   value: {
     fontWeight: "500",
     fontSize: 14,
+    color: Colors.black,
   },
   centeredView: {
     flex: 1,
@@ -354,6 +349,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     width: "20%",
     justifyContent: "space-evenly",
+    color: Colors.black,
   },
   modalBg: {
     flex: 1,
