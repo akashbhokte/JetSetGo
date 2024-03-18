@@ -59,6 +59,11 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+#Screen samples
+![Simulator Screenshot - iPhone 13 - 2024-03-17 at 20 15 32](https://github.com/akashbhokte/JetSetGo/assets/77504381/d7887d07-2361-4800-8b4a-9884798e9590)
+![simulator_screenshot_CD5CC033-6F49-404C-9CE7-EF8EA5CBD933](https://github.com/akashbhokte/JetSetGo/assets/77504381/d3f2c855-7b0c-4381-9857-a48f17a4c178)
+![Simulator Screenshot - iPhone 13 - 2024-03-17 at 20 15 45](https://github.com/akashbhokte/JetSetGo/assets/77504381/b141b0a8-0e13-4208-96c4-1a80b18aeae4)
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
