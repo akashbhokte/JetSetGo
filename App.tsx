@@ -338,7 +338,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
     shadowRadius: 4,
     elevation: 5,
-    height: "40%",
+    height: "35%",
   },
   filterButton: {
     borderWidth: 1,
